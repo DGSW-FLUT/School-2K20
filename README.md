@@ -1,7 +1,7 @@
 # School-2K20
 ### 학교규칙정보센터
 [[참조] 국가법령정보센터](http://www.law.go.kr/LSW//main.html)
-### DSG-WS
+### DGSW-S
 학교 공용 서버
 
 [[참조] Wikipedia - 아마존 웹 서비스](https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4_%EC%9B%B9_%EC%84%9C%EB%B9%84%EC%8A%A4)
