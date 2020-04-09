@@ -9,13 +9,13 @@
 판례 관리 시스템에 대해 기숙사운영부장, 사감 교육비용.
 온전히 공개된 판례가 명예훼손을 할 수 있음.
 시스템개발비용(도메인, 서버)
-[[참조] 국가법령정보센터](http://www.law.go.kr/LSW//main.html)
++ [[참조] 국가법령정보센터](http://www.law.go.kr/LSW//main.html)
 ## DGSW-S
 학생 공용 서버
 해커톤 진행시에 사용한 KT회선을 상시로 가동하여
 학교 내부에 학생 공용 서버를 설치 후 도메인(DDNS 사용여부에 관한 논의 필요) 구입.
 상시로 메인서버를 작동시킴.
-[[참조] Wikipedia - 아마존 웹 서비스](https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4_%EC%9B%B9_%EC%84%9C%EB%B9%84%EC%8A%A4)
++ [[참조] Wikipedia - 아마존 웹 서비스](https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4_%EC%9B%B9_%EC%84%9C%EB%B9%84%EC%8A%A4)
 #### 이용 과정
 1. 개인/팀이 라즈베리/라떼판다를 학생공용서버실에 기기를 설치
 2. 무선으로 기기를 학생공용서버에 연결 후 IP 확인
@@ -32,7 +32,7 @@ API로 고유번호, 입학년도, 이름, 현재 학년/반/번호 등을 받�
 다만 개인/민감정보는 제공시에 사용자에게 동의를 받아야함/
 가능하다면 도담도담 로그인 API로 대체
 (API키 발급에 대해서 논의 필요)
-[[참조]네이버 로그인 API](https://developers.naver.com/products/login/api/)
++ [[참조]네이버 로그인 API](https://developers.naver.com/products/login/api/)
 #### API 작동과정
 1. 로그인 페이지 팝업
 2. 로그인 후 API 서버에서 개발자가 등록한 서버로 요청된 정보를 전달
@@ -43,9 +43,9 @@ API로 고유번호, 입학년도, 이름, 현재 학년/반/번호 등을 받�
 ## 학교 오픈 데이터
 급식정보(OPEN NEIS API랑 맞지 않는 부분이 있음 영양사분과 논의 필요),
 학생 위치 기록 대장, 상벌점 기록(단 학년, 반, 번호, 이름 등 개인/민감정보를 어디까지 공개할 것인지 논의 필요, 가능하다면 도담도담과 연계)
-[[참조] 서울 열린데이터광장](http://data.seoul.go.kr/)
-[[참조] 나이스 교육정보 개방포털](https://open.neis.go.kr/portal/guide/apiIntroPage.do)
-[[참조] 대한민국 법원 대국민 서비스 > 판결서 인터넷 열람 > 비실명화](https://www.scourt.go.kr/portal/information/finalruling/anony/index.html)
++ [[참조] 서울 열린데이터광장](http://data.seoul.go.kr/)
++ [[참조] 나이스 교육정보 개방포털](https://open.neis.go.kr/portal/guide/apiIntroPage.do)
++ [[참조] 대한민국 법원 대국민 서비스 > 판결서 인터넷 열람 > 비실명화](https://www.scourt.go.kr/portal/information/finalruling/anony/index.html)
 #### 장점
 빅데이터/머신러닝 같은 흥행하는 분야를 학교에서도 적용할 수 있음
 #### 단점
