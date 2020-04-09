@@ -45,6 +45,7 @@ API로 고유번호, 입학년도, 이름, 현재 학년/반/번호 등을 받�
 학생 위치 기록 대장, 상벌점 기록(단 학년, 반, 번호, 이름 등 개인/민감정보를 어디까지 공개할 것인지 논의 필요, 가능하다면 도담도담과 연계)
 [[참조] 서울 열린데이터광장](http://data.seoul.go.kr/)
 [[참조] 나이스 교육정보 개방포털](https://open.neis.go.kr/portal/guide/apiIntroPage.do)
+[[참조] 대한민국 법원 대국민 서비스 > 판결서 인터넷 열람 > 비실명화](https://www.scourt.go.kr/portal/information/finalruling/anony/index.html)
 #### 장점
 빅데이터/머신러닝 같은 흥행하는 분야를 학교에서도 적용할 수 있음
 #### 단점
