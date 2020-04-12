@@ -10,6 +10,7 @@
 온전히 공개된 판례가 명예훼손을 할 수 있음.
 시스템개발비용(도메인, 서버)
 + [[참조] 국가법령정보센터](http://www.law.go.kr/LSW//main.html)
++ [[참조] 대한민국 법원 비실명화 안내](https://www.scourt.go.kr/portal/information/finalruling/anony/index.html)
 ## DGSW-S
 학생 공용 서버
 해커톤 진행시에 사용한 KT회선을 상시로 가동하여
